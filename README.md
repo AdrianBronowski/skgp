@@ -1,0 +1,2 @@
+# skgp
+Podstawy Git
